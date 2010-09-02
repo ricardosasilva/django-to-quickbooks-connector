@@ -1,0 +1,8 @@
+Sample Django application that connect to QuickBooks using the Web Connector.
+
+It's just a reference application, any comment or improvement will be welcome.
+
+Dependencies:
+
+Django
+soaplib

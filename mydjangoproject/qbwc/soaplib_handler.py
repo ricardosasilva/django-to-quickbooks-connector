@@ -28,7 +28,7 @@ class DjangoSoapApp(SimpleWSGISoapApp):
 
 class String:
     '''
-    Custom String Serializer withou namespace
+    Custom String Serializer without namespace
     in order to avoid problems with the .NET SOAP client 
     '''
     @classmethod
@@ -53,7 +53,7 @@ class String:
 
 class Integer:
     '''
-    Custom Integer Serializer withou namespace
+    Custom Integer Serializer without namespace
     in order to avoid problems with the .NET SOAP client 
     '''
 
@@ -79,7 +79,7 @@ class Integer:
 
 class Array:
     '''
-    Custom Array Serializer withou namespace
+    Custom Array Serializer without namespace
     in order to avoid problems with the .NET SOAP client 
     '''
 
